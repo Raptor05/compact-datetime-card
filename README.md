@@ -56,6 +56,15 @@ show_time: true
 
 If both `show_date` and `show_time` are `false`, all parts supported by the entity are shown.
 
+### Preview
+The card itself loofs like this:
+
+![card](img/campact_datetime_card.png)
+
+Selecting the date and time:
+
+![card_date_selection](img/campact_datetime_card-dateselection.png) ![card_time_selection](img/campact_datetime_card-timeselection.png)
+
 ### Usage
 
 - **Button on the right** opens the picker
